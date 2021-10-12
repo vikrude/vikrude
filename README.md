@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vikrude
-- 👀 I’m interested in JavaScript, Go and Blockchain development (Ethereum smart contracts + Decentralized Applications)
+- 👀 I’m interested in JavaScript, Go and Solidity (Ethereum smart contracts + Decentralized Applications)
 - 🌱 I’m currently learning the absolute basics of programming
 - 💞️ I’m looking for mentors to help me on my journey
 - 📫 You can contact me via email vikrantrudhar@gmail.com
